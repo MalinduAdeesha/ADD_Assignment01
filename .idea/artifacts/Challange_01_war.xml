@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Challange_01:war">
+    <output-path>$PROJECT_DIR$/AAD-Challenge-01-master/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>Challange_01</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="Challange_01-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Challange_01:war exploded" />
+    </root>
+  </artifact>
+</component>
